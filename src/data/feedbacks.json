@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1779265025165lshubxw37",
+    "name": "Limit User 2",
+    "email": "limit2@example.com",
+    "rating": 4,
+    "feedback": "Spam limit check message 2",
+    "createdAt": "2026-05-20T08:17:05.166Z"
+  },
+  {
+    "id": "1779265024255fo13si7ee",
+    "name": "Limit User 1",
+    "email": "limit1@example.com",
+    "rating": 4,
+    "feedback": "Spam limit check message 1",
+    "createdAt": "2026-05-20T08:17:04.256Z"
+  },
+  {
+    "id": "17792650230288h2qdzxk9",
+    "name": "Test User",
+    "email": "test@example.com",
+    "rating": 5,
+    "feedback": "This is a great app! Very clean UI.",
+    "createdAt": "2026-05-20T08:17:03.032Z"
+  },
+  {
+    "id": "1779264748903t3xhgdyph",
+    "name": "Limit User 2",
+    "email": "limit2@example.com",
+    "rating": 4,
+    "feedback": "Spam limit check message 2",
+    "createdAt": "2026-05-20T08:12:28.906Z"
+  },
+  {
+    "id": "177926474849746a5ddd7o",
+    "name": "Limit User 1",
+    "email": "limit1@example.com",
+    "rating": 4,
+    "feedback": "Spam limit check message 1",
+    "createdAt": "2026-05-20T08:12:28.498Z"
+  },
+  {
+    "id": "17792647477333qqw9r8fu",
+    "name": "Test User",
+    "email": "test@example.com",
+    "rating": 5,
+    "feedback": "This is a great app! Very clean UI.",
+    "createdAt": "2026-05-20T08:12:27.738Z"
+  }
+]
